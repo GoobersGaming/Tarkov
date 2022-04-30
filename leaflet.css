@@ -74,7 +74,7 @@
 	-webkit-tap-highlight-color: rgba(51, 181, 229, 0.4);
 }
 .leaflet-container {
-  background: #00000;
+  background: #ddd;
   outline: 0;
 }
 .leaflet-tile {

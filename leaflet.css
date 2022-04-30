@@ -15,10 +15,6 @@
 .leaflet-container {
 	overflow: hidden;
 	}
-.leaflet-container {
-  background: #00000;
-  outline: 0;
-}
 .leaflet-tile,
 .leaflet-marker-icon,
 .leaflet-marker-shadow {
@@ -76,6 +72,10 @@
 }
 .leaflet-container a {
 	-webkit-tap-highlight-color: rgba(51, 181, 229, 0.4);
+}
+.leaflet-container {
+  background: #00000;
+  outline: 0;
 }
 .leaflet-tile {
 	filter: inherit;
